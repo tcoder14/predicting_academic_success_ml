@@ -66,7 +66,6 @@ The machine learning workflow follows these steps:
 8. Train multiple machine learning models
 9. Compare model performance
 10. Select the best model
-11. Save the trained model
 
 ---
 
@@ -164,5 +163,5 @@ Possible future improvements include:
 - Apply class balancing techniques
 - Use hyperparameter tuning
 - Try advanced models such as XGBoost or LightGBM
-- Add more visualizations
+- Add visualizations
 - Build a simple web interface for prediction
